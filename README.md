@@ -63,16 +63,166 @@ Y= A⊕B
 
 
 **PROGRAM**
-
+```
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
- 
+Developed by: Adhl Hameed
+Register Number: 212223050002
+#AND-GATE
+module andgate(a,b,e);
+input a,b;
+output e;
+assign e = (a & b);
+endmodule
+
+#NOT-GATE
+module notgate(a,e);
+input a;
+output e;
+assign e = ~(a);
+endmodule
+
+#OR-GATE
+module orgate(a,b,e);
+input a,b;
+output e;
+assign e = (a | b);
+endmodule
+
+#NAND-GATE
+module nandgate(a,b,e);
+input a,b;
+output e;
+assign e = ~(a & b);
+endmodule
+
+#NOR-GATE
+module norgate(a,b,e);
+input a,b;
+output e;
+assign e = ~(a | b);
+endmodule
+
+#XNOR-GATE
+module xnorgate(a,b,e);
+input a,b;
+output e;
+assign e = ~(a ^ b);
+endmodule
+
+#XOR-GATE
+module xorgate(a,b,e);
+input a,b;
+output e;
+assign e = (a ^ b);
+endmodule
+```
 **Logic symbol & Truthtable**
+#AND-GATE
+module andgate(a,b,e);
+input a,b;
+output e;
+assign e = (a & b);
+endmodule
+
+#NOT-GATE
+module notgate(a,e);
+input a;
+output e;
+assign e = ~(a);
+endmodule
+
+#OR-GATE
+module orgate(a,b,e);
+input a,b;
+output e;
+assign e = (a | b);
+endmodule
+
+#NAND-GATE
+module nandgate(a,b,e);
+input a,b;
+output e;
+assign e = ~(a & b);
+endmodule
+
+#NOR-GATE
+module norgate(a,b,e);
+input a,b;
+output e;
+assign e = ~(a | b);
+endmodule
+
+#XNOR-GATE
+module xnorgate(a,b,e);
+input a,b;
+output e;
+assign e = ~(a ^ b);
+endmodule
+
+#XOR-GATE
+module xorgate(a,b,e);
+input a,b;
+output e;
+assign e = (a ^ b);
+endmodule
 
 **RTL realization Output:** 
+#AND-GATE
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/0ca3a9a3-0b07-48c7-ba9e-5ad1d2b41bf1)
+
+
+#NOT-GATE
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/51e320e6-4596-43cc-8d2d-0416070edd3e)
+
+
+#OR-GATE
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/2c66aafe-3f96-4723-8818-bbfd17bbe4da)
+
+
+#NAND-GATE
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/8d1eac00-5176-4785-b3a1-b1fae9d8546e)
+
+
+#NOR-GATE
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/0a802d51-650b-4f97-adc6-f51dcb55c21b)
+
+
+#XNOR-GATE
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/514d2c2a-9e96-4dd4-8a48-cce6c8eee4f1)
+
+
+#XOR-GATE
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/6e983b8a-b8ee-41e0-91ea-cc1e5b0380ec)
+
 
 **RTL**
+#AND-GATE
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/4dadf25f-6dc8-400c-b8d6-a00db846b163)
+
+
+#NOT-GATE
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/b0af1e0a-6c0e-4976-ad14-f1497f4c0137)
+
+
+#OR-GATE
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/f22dec0d-f119-411d-a263-570757a26f1f)
+
+
+#NAND-GATE
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/a401cc5c-4a25-456e-b9de-a3a6ce4722d0)
+
+
+#NOR-GATE
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/fd386d7b-7030-4c16-92f5-c6429cc8ac40)
+
+
+#XNOR-GATE
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/bcba77b6-8689-4c42-b528-f577c9d0ee0e)
+
+
+#XOR-GATE
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/c024e32d-4127-4a3a-9132-9d29642e3965)
 
 **Result:**
 
