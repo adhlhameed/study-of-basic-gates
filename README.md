@@ -117,57 +117,41 @@ output e;
 assign e = (a ^ b);
 endmodule
 ```
+
 **Logic symbol & Truthtable**
+
 #AND-GATE
-module andgate(a,b,e);
-input a,b;
-output e;
-assign e = (a & b);
-endmodule
+
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/fe4a64b3-604a-44b7-91ef-f6e9b2a9ff9a)
 
 #NOT-GATE
-module notgate(a,e);
-input a;
-output e;
-assign e = ~(a);
-endmodule
+
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/a2cb7ef0-8e49-4086-b698-b5572783616d)
 
 #OR-GATE
-module orgate(a,b,e);
-input a,b;
-output e;
-assign e = (a | b);
-endmodule
+
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/1b908795-8695-40ee-8866-393463fce0c1)
 
 #NAND-GATE
-module nandgate(a,b,e);
-input a,b;
-output e;
-assign e = ~(a & b);
-endmodule
+
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/ca180f4a-2b06-41f4-8a24-ba35340cb476)
 
 #NOR-GATE
-module norgate(a,b,e);
-input a,b;
-output e;
-assign e = ~(a | b);
-endmodule
+
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/766db8fa-4a33-4ef4-93d2-0029397b0c5a)
 
 #XNOR-GATE
-module xnorgate(a,b,e);
-input a,b;
-output e;
-assign e = ~(a ^ b);
-endmodule
+
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/b008e8b1-878e-412f-8f43-80328621bd00)
+
 
 #XOR-GATE
-module xorgate(a,b,e);
-input a,b;
-output e;
-assign e = (a ^ b);
-endmodule
+
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/a4a56faa-15cd-449b-8334-2f41a75922ce)
+
 
 **RTL realization Output:** 
+
 #AND-GATE
 ![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/0ca3a9a3-0b07-48c7-ba9e-5ad1d2b41bf1)
 
@@ -189,41 +173,49 @@ endmodule
 
 
 #XNOR-GATE
-![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/514d2c2a-9e96-4dd4-8a48-cce6c8eee4f1)
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/7b5a72c0-47d8-424b-8972-0eb6a618329b)
 
 
 #XOR-GATE
-![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/6e983b8a-b8ee-41e0-91ea-cc1e5b0380ec)
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/0fe0af91-ee4a-492c-b5c3-2adfe32745e9)
 
 
 **RTL**
+
 #AND-GATE
+
 ![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/4dadf25f-6dc8-400c-b8d6-a00db846b163)
 
 
 #NOT-GATE
+
 ![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/b0af1e0a-6c0e-4976-ad14-f1497f4c0137)
 
 
 #OR-GATE
+
 ![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/f22dec0d-f119-411d-a263-570757a26f1f)
 
 
 #NAND-GATE
+
 ![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/a401cc5c-4a25-456e-b9de-a3a6ce4722d0)
 
 
 #NOR-GATE
+
 ![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/fd386d7b-7030-4c16-92f5-c6429cc8ac40)
 
 
 #XNOR-GATE
+
 ![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/bcba77b6-8689-4c42-b528-f577c9d0ee0e)
 
 
 #XOR-GATE
+
 ![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/c024e32d-4127-4a3a-9132-9d29642e3965)
 
 **Result:**
-
+Thus, the programs have been executed.
 
