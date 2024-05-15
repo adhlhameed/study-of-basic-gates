@@ -153,32 +153,38 @@ endmodule
 **RTL realization Output:** 
 
 #AND-GATE
+
 ![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/0ca3a9a3-0b07-48c7-ba9e-5ad1d2b41bf1)
 
 
 #NOT-GATE
+
 ![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/51e320e6-4596-43cc-8d2d-0416070edd3e)
 
 
 #OR-GATE
+
 ![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/2c66aafe-3f96-4723-8818-bbfd17bbe4da)
 
 
 #NAND-GATE
+
 ![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/8d1eac00-5176-4785-b3a1-b1fae9d8546e)
 
 
 #NOR-GATE
+
 ![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/0a802d51-650b-4f97-adc6-f51dcb55c21b)
 
 
 #XNOR-GATE
+
 ![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/7b5a72c0-47d8-424b-8972-0eb6a618329b)
 
 
 #XOR-GATE
-![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/0fe0af91-ee4a-492c-b5c3-2adfe32745e9)
 
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/39099967-a65b-42b3-90f9-439ffb3049cb)
 
 **RTL**
 
