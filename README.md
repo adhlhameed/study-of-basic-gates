@@ -144,11 +144,9 @@ endmodule
 
 ![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/b008e8b1-878e-412f-8f43-80328621bd00)
 
-
 #XOR-GATE
 
-![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/a4a56faa-15cd-449b-8334-2f41a75922ce)
-
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/39099967-a65b-42b3-90f9-439ffb3049cb)
 
 **RTL realization Output:** 
 
@@ -184,7 +182,8 @@ endmodule
 
 #XOR-GATE
 
-![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/39099967-a65b-42b3-90f9-439ffb3049cb)
+![image](https://github.com/adhlhameed/study-of-basic-gates/assets/168260238/8f07050c-21f3-4156-9cff-ddf9d1b5a0d0)
+
 
 **RTL**
 
